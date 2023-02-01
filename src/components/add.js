@@ -19,9 +19,7 @@ const Add = (AddMovies) => {
     const handelSave = () =>{
         AddMovies=(newMovie)
     }
-    const handleClose = () => {
-        AddMovies=(newMovie)
-    }
+    
 
 
     return (
